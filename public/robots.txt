@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://milo-29497544.zappy5.app/sitemap.xml

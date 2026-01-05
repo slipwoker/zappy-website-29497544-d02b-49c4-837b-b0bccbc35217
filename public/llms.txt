@@ -1,0 +1,59 @@
+# Milo — Generative Engine Optimization Map
+
+> A בגדי ספורט business.
+
+---
+
+## Pages
+
+### דף הבית
+https://milo-29497544.zappy5.app
+גלו את הקולקציה המקצועית של Milo - בגדי ספורט איכותיים לחובבי כושר, בני נוער ספורטיביים וספורטאים מקצועיים. milo 3 in 1 במחירים מעולים.
+
+### מוצרים
+https://milo-29497544.zappy5.app/products
+גלו את מגוון המוצרים המקצועיים של Milo - milo 3 in 1, milo 1kg price ו-milo 2kg price. בגדי ספורט איכותיים לכל סוגי הפעילות הספורטיבית.
+
+### אודות
+https://milo-29497544.zappy5.app/about
+הכירו את Milo - המותג המוביל בתחום בגדי הספורט המקצועיים. אנחנו מציעים milo 3 in 1 ומוצרים איכותיים לחובבי כושר וספורטאים מקצועיים.
+
+### צור קשר
+https://milo-29497544.zappy5.app/contact
+צרו קשר עם Milo לקבלת מידע על milo 3 in 1, milo 1kg price, milo 2kg price ומוצרי בגדי הספורט המקצועיים שלנו. אנחנו כאן לעזור!
+
+## Legal & Policy
+
+### Privacy Policy
+https://milo-29497544.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://milo-29497544.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://milo-29497544.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Milo
+Milo is a business in the בגדי ספורט industry.
+
+## Target Audience
+- חובבי כושר
+- בני נוער ספורטיביים
+- ספורטאים מקצועיים
+
+## Industry
+בגדי ספורט
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://milo-29497544.zappy5.app/sitemap.xml
+- **Robots.txt**: https://milo-29497544.zappy5.app/robots.txt
